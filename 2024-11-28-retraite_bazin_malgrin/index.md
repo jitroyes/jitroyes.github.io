@@ -1,14 +1,16 @@
 ---
-title: Obstruction parlementaire Valérie BAZIN-MALGRAS
+title: "[2024-11-28 Obstruction Bazin-Malgrin] Analyse"
 ---
+
+_Publication: 27 novembre 2024_
 
 # Contexte
 
-Le jeudi 28 novembre 2024 était la niche parlementaire de LFI. Les duputés ont
-proposé d'abroger la retraite à 64 ans. Mais les députés du «socle commun»
-(droite), ont posé 771 amendements pour empêcher le vote. Nous avons examinés
-tous ceux de Valérie BAZIN-MALGRAS (LR) députés de la deuxième circonstription
-de l'Aube.
+Le jeudi 28 novembre 2024 était la niche parlementaire de LFI. Les députés ont
+proposé d’abroger la retraite à 64 ans. Mais les députés du «socle commun»
+(droite), ont posé 771 amendements pour empêcher le vote. Nous avons examiné
+tous ceux de Valérie BAZIN-MALGRAS (LR) députés de la deuxième circonscription
+de l’Aube.
 
 # Amendements
 
@@ -32,7 +34,7 @@ de l'Aube.
 | 184 |      soutien       | natalité par politique familiale |
 | 185 |      soutien       | pension réversion                |
 | 186 |      soutien       | sénior                           |
-| 198 |    suppression     | art 1 [^1]                       |
+| 198 |    suppression     | art 1 *                          |
 | 202 |    suppression     | art 2 // tabac                   |
 | 207 |    suppression     | art 3                            |
 | 215 |                    | ajout                            |
@@ -42,32 +44,17 @@ de l'Aube.
 | 221 |        info        | proche aidant                    |
 | 258 |        info        | handicapé                        |
 | 260 |        info        | retraite progressive             |
-| 283 |    suppression     | art1 alinéas 1 à 37 [^1]         |
-| 304 |    suppression     | art1 alinéas 38 à 40 [^1]        |
-| 305 |    suppression     | art1 alinéas 41 à 49 [^1]        |
-| 306 |    suppression     | art1 alinéas 50 à 62 [^1]        |
-| 307 |    suppression     | art1 alinéa 63 [^1]              |
-| 308 |    suppression     | art1 alinéa 80 [^1]              |
-| 310 |    suppression     | art1 alinéa 81 [^1]              |
-| 311 |    suppression     | art1 alinéa 12 [^1]              |
+| 283 |    suppression     | art1 alinéas 1 à 37 *            |
+| 304 |    suppression     | art1 alinéas 38 à 40 *           |
+| 305 |    suppression     | art1 alinéas 41 à 49 *           |
+| 306 |    suppression     | art1 alinéas 50 à 62 *           |
+| 307 |    suppression     | art1 alinéa 63 *                 |
+| 308 |    suppression     | art1 alinéa 80 *                 |
+| 310 |    suppression     | art1 alinéa 81 *                 |
+| 311 |    suppression     | art1 alinéa 12 *                 |
 
-| type        |    |
-| ----------- | -: |
-| Cavalier    |  2 |
-| Info        |  6 |
-| Rapport     |  7 |
-| Soutien     |  5 |
-| Suppression | 11 |
-|             |    |
-| Irrecevable |  1 |
-| Autre       |  4 |
-|             |    |
-| total       | 36 |
-
-![Graphique](graphique.png)
-
-[^1]: #bloc correspond à l'ajout de la même justification suivante:
-
+> *** Correspond à l'ajout de la même justification suivante:**
+>
 > Cet amendement vise à supprimer les modifications des articles du code de
 > l’action sociale et des familles dans leur rédaction issue de la réforme des
 > retraites de 2023.
@@ -97,10 +84,21 @@ de l'Aube.
 > l’action sociale et des familles dans leur rédaction issue de la réforme des
 > retraites de 2023.
 
+|        | type        |
+| -----: | ----------- |
+|      2 | Cavalier    |
+|      6 | Info        |
+|      7 | Rapport     |
+|      5 | Soutien     |
+|     11 | Suppression |
+|      1 | Irrecevable |
+|      4 | Autre       |
+| **36** | **total**   |
+
+![Graphique](graphique.png)
+
 # Sources
 
-- https://lafranceinsoumise.fr/interpellez-bloquer-abrogation-retraite/
-
-Et pour les amendement:
-
-- https://www.assemblee-nationale.fr/dyn/17/amendements/0613/AN/{ID}
+- <https://lafranceinsoumise.fr/interpellez-bloquer-abrogation-retraite/>
+- Et pour les amendements:
+  <https://www.assemblee-nationale.fr/dyn/17/amendements/0613/AN/{ID}>

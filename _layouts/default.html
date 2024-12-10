@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="{{ 'style.css?v=' | append: site.time | relative_url }}">
+	{% seo %}
+</head>
+
+<body>
+	<header role="banner">
+		<h1><a class=home href="{{ '/' | relative_url }}">φ</a> / {{ page.title }}</h1>
+	</header>
+
+	<main>{{ content }}</main>
+
+	<ul id=links>
+		{%- assign pages = site.pages | sort: "url" %}
+		{%- for page in pages %}
+		{% if page.url == "/assets/css/style.css" %}{% continue %}{% endif -%}
+		<li><a href="{{page.url}}">{{page.title | default: page.url}}</a></li>
+		{%- endfor %}
+	</ul>
+
+	<footer>Les jeunes insoumis·es de Troyes | <a href="https://linktr.ee/jitroyes">liens</a></footer>
+</body>
+
+</html>

@@ -1,0 +1,110 @@
+/* base */
+
+a {
+	color: inherit;
+	text-decoration: underline #3885f4;
+}
+
+a:hover {
+	background: #3885f4;
+}
+
+h1,
+h2,
+h3 {
+	font-family: "Public Sans", sans-serif;
+	font-weight: 800;
+}
+
+p,
+li,
+tr,
+th {
+	text-align: justify;
+}
+
+p {
+	text-indent: 3ex;
+}
+
+li>p {
+	text-indent: 0;
+}
+
+ul {
+	list-style: "— ";
+	padding-left: 3ex;
+}
+
+li::marker {
+	color: #7b13d6;
+}
+
+blockquote {
+	border-left: .5ex #7b13d6 solid;
+	margin: 0;
+	padding-left: 1ex;
+	font-style: italic;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	border: .3ex #AAA solid;
+	margin-bottom: 2ex;
+}
+
+th {
+	background: #DDD;
+}
+
+th,
+td {
+	padding: .1ex .3ex;
+	border: .1ex #AAA solid;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+/* specific */
+
+body {
+	margin: 0 auto;
+	max-width: 70ex;
+	padding: 0 1ex;
+
+	font-family: "Gowun Batang", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: large;
+
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+header>h1 {
+	color: #7b13d6;
+	text-decoration: underline .2ex;
+}
+
+a.home {
+	text-decoration: none;
+}
+
+footer {
+	margin-top: auto;
+	padding: 1ex 2ex;
+	background: #7b13d6;
+	color: white;
+}
+
+ul#links {
+	margin-top: 3ex;
+	border: solid .3ex #7b13d6;
+	list-style: none;
+	padding: .3ex;
+}

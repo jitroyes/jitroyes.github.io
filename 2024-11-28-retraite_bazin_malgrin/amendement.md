@@ -1,26 +1,26 @@
 ---
-title: Texte des amendements de Valérie BAZIN-MALGRAS
+title: "[2024-11-28 Obstruction Bazin-Malgrin] Texte des amendements"
 ---
 
-- 146 Dans un délai de sept mois à compter de la promulgation de la présente
+- **146** Dans un délai de sept mois à compter de la promulgation de la présente
   loi, le Gouvernement remet au Parlement un rapport évaluant le niveau de
   recours au rachat de trimestres de cotisation et proposant des moyens de le
   développer.
 
-- 147 Le Gouvernement remet au Parlement, avant le 31 mai 2025, un rapport
+- **147** Le Gouvernement remet au Parlement, avant le 31 mai 2025, un rapport
   dressant un bilan évaluant l’impact de l’application de l’article 73 de la loi
   n° 2020‑1576 du 14 décembre 2020 de financement de la sécurité sociale pour
   2021 et sur l’opportunité d’attribuer à toute personne membre du bureau d’une
   association, un trimestre supplémentaire par tranche de dix années effectives
   de responsabilité assumées au sein du bureau de ladite association.
 
-- 148 Dans un délai de sept mois à compter de la promulgation de la présente
+- **148** Dans un délai de sept mois à compter de la promulgation de la présente
   loi, le Gouvernement remet au Parlement un rapport évaluant la nécessité
   d’intégrer, dans la trajectoire financière des régimes de retraite, la
   création d’un droit à au moins quatre trimestres d’assurance retraite
   supplémentaires pour les assurés ayant accompli au moins dix années de
   service, continues ou non, en qualité de sapeur-pompier volontaire.
-- 149 Dans les six mois à compter de la promulgation de la présente loi, le
+- **149** Dans les six mois à compter de la promulgation de la présente loi, le
   Gouvernement remet au Parlement un rapport évaluant la mise en œuvre de
   l’article 65 de la loi n° 2008‑1330 du 17 décembre 2008 de financement de la
   sécurité sociale pour 2009. En fonction des résultats, le rapport se prononce
@@ -28,13 +28,13 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
   supplémentaires pour maternité et éducation prévu à l’article L. 12 bis du
   code des pensions civiles et militaires de retraite sur le modèle du régime
   prévu à l’article L. 351‑4 du code de la sécurité sociale.
-- 150 Dans un délai de sept mois à compter de la promulgation de la présente
+- **150** Dans un délai de sept mois à compter de la promulgation de la présente
   loi, le Gouvernement remet au Parlement un rapport évaluant l’application de
   l’article 74 de la loi n° 2008‑1330 du 17 décembre 2008 de financement de la
   sécurité sociale pour 2009. Il se prononce notamment sur l’opportunité pour le
   Gouvernement de mettre en œuvre une harmonisation par le haut des différents
   régimes de pensions de réversion.
-- 151 Dans un délai de sept mois à compter de la promulgation de la présente
+- **151** Dans un délai de sept mois à compter de la promulgation de la présente
   loi, le Gouvernement remet au Parlement un rapport faisant l’évaluation du
   recours aux dispositions prévues à l’article L. 351‑1‑3 du code de la sécurité
   sociale.
@@ -57,33 +57,33 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
   sécurité sociale et de ceux délivrés par les maisons départementales des
   personnes handicapées.
 
-- 152 Dans un délai de huit mois à compter de la promulgation de la présente
+- **152** Dans un délai de huit mois à compter de la promulgation de la présente
   loi, le Gouvernement remet un rapport au Parlement sur les moyens pouvant être
   mobilisés afin de renforcer l’information des proches aidants quant à leurs
   droits en matière de retraite.
 
-- 173 Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
+- **173** Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
   sécurité sociale, il est inséré un alinéa ainsi rédigé :
 
   « La Nation fixe également au système de retraite par répartition un objectif
   national de natalité et de promotion de la politique familiale, vecteurs
   indispensables à l’équilibre et à la pérennité dudit système. »
 
-- 177 Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
+- **177** Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
   sécurité sociale, il est inséré un alinéa ainsi rédigé :
 
   « La Nation fixe également au système de retraite par répartition un objectif
   national de soutien à la formation des jeunes et à l’insertion
   professionnelle. »
 
-- 178 L’article L. 161‑24‑1 du code de la sécurité sociale est complété par une
-  phrase ainsi rédigée : « Lorsque le bénéficiaire mentionné à l’article L.
+- **178** L’article L. 161‑24‑1 du code de la sécurité sociale est complété par
+  une phrase ainsi rédigée : « Lorsque le bénéficiaire mentionné à l’article L.
   161‑24 réside à l’étranger, cette preuve de vie est réputée valable, dès lors
   qu’elle est physiquement constatée par un agent diplomatique ou consulaire de
   la République française, légalement reconnu comme officier d’état civil. ».
 
-- 179 Après l’article L. 815‑1 du code de la sécurité sociale, il est inséré un
-  article L. 815‑1‑1 ainsi rédigé :
+- **179** Après l’article L. 815‑1 du code de la sécurité sociale, il est inséré
+  un article L. 815‑1‑1 ainsi rédigé :
 
   « Art. L. 815‑1‑1. – Le bénéficiaire d’une allocation de solidarité aux
   personnes âgées telle que définie à l’article L. 815‑1 justifie chaque année
@@ -98,34 +98,34 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
   d’un délai d’un mois après la date à laquelle cette justification était
   attendue. »
 
-- 181 Avant le 30 septembre 2025, le Gouvernement remet au Parlement un rapport
-  faisant le bilan de l’application du 1° de l’article 50 de la loi n° 2015‑1702
-  du 21 décembre 2015 de financement de la sécurité sociale pour 2016. Ce
-  rapport étudie également la possibilité et les coûts et bénéfices engendrés
+- **181** Avant le 30 septembre 2025, le Gouvernement remet au Parlement un
+  rapport faisant le bilan de l’application du 1° de l’article 50 de la loi n°
+  2015‑1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016.
+  Ce rapport étudie également la possibilité et les coûts et bénéfices engendrés
   par la réduction du délai carence imposé aux personnes souhaitant bénéficier
   du dispositif de cumul emploi retraite.
 
-- 182 Dans les huit mois à compter de la promulgation de la présente loi, le
+- **182** Dans les huit mois à compter de la promulgation de la présente loi, le
   Gouvernement remet au Parlement un rapport sur l’évolution des conditions
   nécessaires pour bénéficier d’une retraite progressive.
 
-- 183 Le premier alinéa de l’article L. 521‑1 du code de la sécurité sociale est
-  complété par une phrase ainsi rédigée : « Elles sont universelles. »
+- **183** Le premier alinéa de l’article L. 521‑1 du code de la sécurité sociale
+  est complété par une phrase ainsi rédigée : « Elles sont universelles. »
 
-- 184 Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
+- **184** Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
   sécurité sociale, il est inséré un alinéa ainsi rédigé :
 
   « La Nation assigne également au système de retraite par répartition un
   objectif de soutien à la natalité afin d’assurer la pérennité du système de
   retraite par répartition, en soutenant la politique familiale. »
 
-- 185 Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
+- **185** Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
   sécurité sociale, il est inséré un alinéa ainsi rédigé :
 
   « La Nation assigne également au système de retraite par répartition un
   objectif de consolidation des pensions de réversion. »
 
-- 186 Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
+- **186** Avant le dernier alinéa du II de l’article L. 111‑2‑1 du code de la
   sécurité sociale, il est inséré un alinéa ainsi rédigé :
 
   « La Nation assigne également au système de retraite par répartition un
@@ -136,7 +136,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 - 202 Supprimer cet article. // art2
 - 207 Supprimer cet article. // art3
 
-- 215 I. – À la fin de l’alinéa 8, substituer aux mots :
+- **215** I. – À la fin de l’alinéa 8, substituer aux mots :
 
   « et à son fonctionnement »
 
@@ -149,7 +149,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
   « Ce document informatif doit être de nature incitative pour l’ensemble des
   assurés concernés. »
 
-- 2016 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- 216 I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif concernant le
@@ -163,7 +163,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 219 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- **219** I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif sur l’attribution
@@ -177,7 +177,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 220 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- **220** I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif sur les différents
@@ -191,7 +191,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 221 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- **221** I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif sur les droits des
@@ -205,7 +205,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 258 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- **258** I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif sur les droits à
@@ -219,7 +219,7 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 260 I. – Après l’alinéa 8, insérer l’alinéa suivant :
+- **260** I. – Après l’alinéa 8, insérer l’alinéa suivant :
 
   « La Caisse nationale d’assurance vieillesse fournit aux assurés atteignant
   l’âge mentionné audit premier alinéa un document informatif sur les conditions
@@ -233,9 +233,9 @@ title: Texte des amendements de Valérie BAZIN-MALGRAS
 
   « ces documents ».
 
-- 283 Supprimer les alinéas 1 à 37.
-- 305 Supprimer les alinéas 41 à 49.
-- 207 Supprimer l’alinéa 63.
-- 308 Supprimer l’alinéa 81.
-- 310 Supprimer l’alinéa 81.
-- 311 Supprimer l’alinéa 12.
+- **283** Supprimer les alinéas 1 à 37.
+- **305** Supprimer les alinéas 41 à 49.
+- **207** Supprimer l’alinéa 63.
+- **308** Supprimer l’alinéa 81.
+- **310** Supprimer l’alinéa 81.
+- **311** Supprimer l’alinéa 12.
