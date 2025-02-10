@@ -18,3 +18,11 @@ de 1,5 milliard d’€ le budget des universités. L'URCA devra-t-elle donc dé
 encore plus nos conditions d’études. C’est intolérable ! Que va devenir
 l’enseignement supérieur à Troyes pour nous, pour nos petits frères et petites
 sœurs? Une seule conclusion: Macron dégage!
+
+
+Nous vous invitons à agir pour notre université mais aussi toutes universités françaises en signant la pétition "[Budget 2025 : Nos universités en danger !](https://www.change.org/p/budget-2025-nos-universit%C3%A9s-en-danger?recruiter=1358751436&recruited_by_id=e8fb5a20-accb-11ef-a2d4-3371ac4f8fc2&utm_source=share_petition&utm_campaign=share_petition&utm_term=share_for_starters_page&utm_medium=copylink&utm_content=cl_sharecopy_490321697_fr-FR%3A5)" lancée par l'Université de Reims CHAMPAGNE-ARDENNE  Chaque signature compte !
+Lancée le 27 novembre, elle a déjà récolté plus de 20500 signatures.
+
+Nous en appelons à notre mobilisation à tous !
+Imposons nos droits aux études !
+
