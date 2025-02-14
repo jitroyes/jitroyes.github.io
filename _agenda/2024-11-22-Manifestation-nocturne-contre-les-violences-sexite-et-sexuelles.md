@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: JITroyes
 keywords:
   - some keyword
@@ -7,8 +7,9 @@ keywords:
   - get rich quick
 ---
 
-![tract](/assets/2024-11-22-Manifestation-nocturne-contre-les-violences-sexite-et-sexuelles-.jpg)
 Manifestation nocturne annuel contre les violences sexiste et sexuelles.
+![tract](/assets/2024-11-22-Manifestation-nocturne-contre-les-violences-sexite-et-sexuelles-.jpg)
+
 
 A l'initiative de l'OST, la CGT, Aux Adelphes, LDH, AHUI, Nous Toutes 10, FSU, MRAP,CIDFF.
 

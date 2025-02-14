@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: JITroyes
 keywords:
   - some keyword
@@ -7,9 +7,8 @@ keywords:
   - get rich quick
 ---
 
-
-![affiche](/assets/2025-01-25-affiche-palestine.png)
 Avec le collectif Aubois pour la Paix, nous continuons les manifestation pour exiger le cessez le feux ainsi que la fin du Génocide à Gaza !
+![affiche](/assets/2025-01-25-affiche-palestine.png)
 
 **Cessez-le-feu total et permanent !**
 

@@ -13,9 +13,11 @@
 </head>
 
 <body>
-	<header role="banner">
-		<h1><a class=home href="{{ '/' | relative_url }}">φ</a> / {{ page.title }}</h1>
-	</header>
+    {% if page.collection == "agenda" %}
+        {% include breadcrumb_agenda.html %}
+    {% else %}
+        {% include breadcrumb_default.html %}
+    {% endif %}
 
 	<main>{{ content }}</main>
 
