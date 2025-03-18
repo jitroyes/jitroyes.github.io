@@ -2,10 +2,10 @@
 title: Ressources documentaires pour (jeune) militant·e insoumis·e
 ---
 
-Liste de ressources site web, vidéo, textes... pour militant·e insoumis·e. Le
-but est pas de tout lire mais d'avoir une liste dans laquelle piocher.
+_Liste de ressources site web, vidéo, textes... pour militant·e insoumis·e. Le
+but est pas de tout lire mais d'avoir une liste dans laquelle piocher._
 
-Organisation de LFI
+# Organisation de LFI
 
 - L'organigramme de LFI dans l'Aube: <https://jitroyes.github.io/lfi_local/>
 - La page du comité de suivi contre les Violences Sexistes et Sexuelles:
