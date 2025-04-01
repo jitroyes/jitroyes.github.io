@@ -25,17 +25,53 @@ title: Justice internationale pour la Palestine
   Sinwar Ismail Haniyeh suite à leur mort. Les 124 pays membres du traité de
   Rome (qui institue cette cour) devront les arrêter s'ils vont sur leurs
   territoires.
+- 2025-02-26 Fin des poursuites contre Mohammed Deïf, car il est
+  vraisemblablement mort.
 - Ces procédures dureront des années.
 
 # Chronologie L'Afrique du Sud contre Israël
 
 - 2023-12-39 Introduction
 - 2024-01-23 Intervention Nicaragua
-- 2024-01-26 Ordonnance indiquant des mesures conservatoires
-- 2024-03-28 Ordonnance indiquant des mesures conservatoires
+- **2024-01-26 Ordonnance indiquant des mesures conservatoires**
+  1. Pas actes de génocides
+  2. Israël doit prévenir et punir l'incitation au génocide des palestiniens
+  3. Permettre la fourniture des services de base
+  4. Prévenir destruction et conservation preuves
+  5. Rapport sur les mesures prises
+- **2024-03-28 Ordonnance indiquant des mesures conservatoires**
+  1. Précédentes mesures conservatoires
+  2. L’État d’Israël doit «Prendre toutes les mesures nécessaires et effectives
+     pour veiller sans délai, [...] à ce que soit assurée, sans restriction et à
+     grande échelle, la fourniture par toutes les parties intéressées des
+     services de base et de l’aide humanitaire requis de toute urgence,
+     notamment la nourriture, l’eau, l’électricité, le combustible, les abris,
+     les vêtements, les produits et installations d’hygiène et d’assainissement,
+     ainsi que le matériel et les soins médicaux, aux Palestiniens de l’ensemble
+     de la bande de Gaza, en particulier en accroissant la capacité et le nombre
+     des points de passage terrestres et en maintenant ceux-ci ouverts aussi
+     longtemps que nécessaire ;»
+  3. Veillé à ce que son armée ne commette pas d’actes de génocide, «y compris
+     en empêchant, d’une quelconque façon, la livraison d’aide humanitaire
+     requise de toute urgence ;»
+  4. Rapport sur les mesures prises
 - 2024-04-05 Intervention Colombie
 - 2024-05-10 Intervention Libye
-- 2024-05-24 Ordonnance indiquant des mesures conservatoires
+- **2024-05-24 Ordonnance indiquant des mesures conservatoires**:
+  1. Mesures précédentes
+  2. «Arrêter immédiatement son offensive militaire, et toute autre action menée
+     dans le gouvernorat de Rafah, qui serait susceptible de soumettre le groupe
+     des Palestiniens de Gaza à des conditions d'existence capables d'entraîner
+     sa destruction physique totale ou partielle;»
+  3. «Maintenir ouvert le point de passage de Rafah pour que puisse être
+     assurée, sans restriction et à grande échelle, la fourniture des services
+     de base et de l'aide humanitaire requis de toute urgence;»
+  4. «Prendre des mesures permettant effectivement de garantir l'accès sans
+     entrave à la bande de Gaza à toute commission d'enquête, toute mission
+     d'établissement des faits ou tout autre organisme chargé par les organes
+     compétents de l'Organisation des Nations Unies d'enquêter sur des
+     allégations de génocide;»
+  5. Rapport sur les mesures prises
 - 2024-05-24 Intervention Mexique
 - 2024-06-03 Intervention Palestine
 - 2024-06-28 Intervention Espagne
@@ -44,6 +80,9 @@ title: Justice internationale pour la Palestine
 - 2024-10-01 Intervention Maldives
 - 2024-10-02 Intervention Bolivie
 - 2024-10-28 Dépôt du mémoire de l'Afrique du Sud
+- 2025-01-06 Intervention Irlande
+- 2025-01-10 Intervention Cuba
+- 2025-01-30 Intervention Bélize
 - 2024-07-28 (Date butoir) Dépôt du contre-mémoire d'Israël
 
 # Sources
@@ -53,3 +92,11 @@ title: Justice internationale pour la Palestine
 - CPI: Situation dans l'État de Palestine <https://www.icc-cpi.int/fr/palestine>
   - <https://www.icc-cpi.int/fr/news/situation-dans-letat-de-palestine-la-chambre-preliminaire-i-de-la-cpi-rejette-les-exceptions>
   - <https://www.icc-cpi.int/fr/news/situation-dans-letat-de-palestine-la-chambre-preliminaire-i-de-la-cpi-delivre-un-mandat-darret>
+- Contre enquête sur les preuves fournis par Israël devant la cour, en anglais:
+  <https://forensic-architecture.org/investigation/assessment-israeli-material-icj-jan-2024>
+
+# Modifications
+
+- 2024-12-10: Publication initiale
+- 2025-04-01: Mise à jour des interventions à la CIJ, détaille des mesures
+  conservatoires et fin poursuite contre Mohammed Deïf.
