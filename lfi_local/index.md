@@ -2,9 +2,9 @@
 title: Organigramme de LFI au local
 ---
 
-![Organiggrame](./2025-02-local.webp)
+![Organiggrame](./2025-07-local.webp)
 
-[Fichier PDF, avec le cas de l'Aube](./2025-02-local.pdf)
+[Fichier PDF, avec le cas de l'Aube et de la documentation pour militants](./2025-07-local.pdf)
 
 # Liens
 
